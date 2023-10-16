@@ -7,9 +7,8 @@ const Hero = () => {
           A history of everything you copy
         </h1>
         <p className="mx-auto mb-10 max-w-3xl text-2xl text-grayishBlue">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus,
-          enim. Fugit est quam non, asperiores laudantium esse culpa? Non,
-          consectetur.
+          Clipboard allows you to track and organize everything you copy.
+          Instantly access your clipboard on all your devices.
         </p>
         {/* button container */}
         <div className="button-container">

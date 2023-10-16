@@ -17,24 +17,23 @@ const Features = () => {
             <div>
               <h3>Quick Search</h3>
               <p className="max-w-md text-grayishBlue">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos,
-                vitae.
+                Easily search your snippets by content, category, web address,
+                application and more.
               </p>
             </div>
             {/* item 2*/}
             <div>
               <h3>iCloud Sync</h3>
               <p className="max-w-md text-grayishBlue">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos,
-                vitae.
+                Instantly saves and syncs snippets across all your devices.
               </p>
             </div>
             {/* item 3*/}
             <div>
               <h3>Completely History</h3>
               <p className="max-w-md text-grayishBlue">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos,
-                vitae.
+                Retrieve any snippets from the first moment you started using
+                the app.
               </p>
             </div>
           </div>

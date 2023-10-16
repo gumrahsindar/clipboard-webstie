@@ -4,10 +4,9 @@ const Snippets = () => {
       <div className="section-container my-20 ">
         <h2>Keep track of your snippets</h2>
         <p className="section-content mb-24">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores
-          eaque eligendi, at ex harum autem maiores, excepturi eos non ratione
-          fugiat aperiam tempore veniam vero numquam reprehenderit assumenda
-          facere nobis?
+          Clipboard instantly stores any item you copy in the cloud, meaning you
+          can access your snippets immediately on all your devices. Our Mac and
+          iOS apps will help you organize everything.
         </p>
       </div>
     </section>
