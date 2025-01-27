@@ -1,3 +1,5 @@
+import Buttons from "./Buttons"
+
 const Hero = () => {
   return (
     <section id="hero">
@@ -11,20 +13,7 @@ const Hero = () => {
           Instantly access your clipboard on all your devices.
         </p>
         {/* button container */}
-        <div className="button-container">
-          <a
-            href="#"
-            className="rounded-full bg-strongCyan p-4 px-8 shadow-lg duration-200 hover:opacity-80"
-          >
-            Download for iOS
-          </a>
-          <a
-            href="#"
-            className="rounded-full bg-lightBlue p-4 px-8 shadow-lg duration-200 hover:opacity-80"
-          >
-            Download for Mac
-          </a>
-        </div>
+        <Buttons />
       </div>
     </section>
   )
